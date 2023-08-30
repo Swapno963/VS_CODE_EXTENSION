@@ -1,0 +1,8 @@
+1. c/c++
+2. C/C++ Extension Pack
+3. C/C++ Themes
+4. CMake
+5. CMake Tools
+6. Code Runner
+7. Competitive Programming Helper (cph)
+8. WSL
